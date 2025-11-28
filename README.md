@@ -16,12 +16,16 @@ FREQUENCY RESPONSE OF COMMON EMITTER AMPLIFIER
 <img width="607" height="428" alt="image" src="https://github.com/user-attachments/assets/02ab13ee-9191-4129-905a-044ecf40839c" />
 
 **ATTACH TABULATION**
-![WhatsApp Image 2025-11-17 at 22 01 00_e29559d3](https://github.com/user-attachments/assets/422ff12b-bf44-4442-b04b-4655eb2545b8)
+
+![WhatsApp Image 2025-11-28 at 10 28 08_7a86124b](https://github.com/user-attachments/assets/bc44415e-f729-4e13-9dc3-d048844963d4)
+
 
 
 **ATTACH GRAPH**
-![WhatsApp Image 2025-11-17 at 22 00 59_bafa48d2](https://github.com/user-attachments/assets/11c2cc0f-db4c-4c12-9f8e-42e4aea2cce2)
+
+![WhatsApp Image 2025-11-28 at 10 28 08_16724924](https://github.com/user-attachments/assets/c4fafbae-bcef-4b46-9962-cac652db0707)
 
 
 **RESULT**
-![WhatsApp Image 2025-11-17 at 22 00 59_3f8acfad](https://github.com/user-attachments/assets/5847055d-b235-4bb8-8f10-3e67561b789e)
+
+![WhatsApp Image 2025-11-28 at 10 28 09_bb6db788](https://github.com/user-attachments/assets/c50d7b33-79d1-42a6-a3cf-3e3f98829efd)
